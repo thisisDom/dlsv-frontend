@@ -16,6 +16,10 @@ button{
   color: $yt-white;
   font-size: 16px;
   outline: none;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
   -webkit-appearance: none;
   appearance: none;
   padding: 4px;

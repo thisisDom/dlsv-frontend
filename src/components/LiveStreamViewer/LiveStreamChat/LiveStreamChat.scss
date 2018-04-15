@@ -20,10 +20,11 @@
   }
 }
 #livestream-chat-window{
-  height: 410px;
-  overflow: scroll;
-  padding: 5px 10px;
   background-color: $yt-white;
+  height: 410px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding: 5px 10px;
 }
 
 .livestream-chat-messenger{

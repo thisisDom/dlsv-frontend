@@ -4,6 +4,8 @@
   font-size: 16px;
   line-height: 19px;
   margin: 5px 0px;
+  width: 100%;
+  word-wrap: break-word;
   .chat-username{
     color: $dark-grey;
     cursor: pointer;
