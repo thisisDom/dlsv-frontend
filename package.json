@@ -11,7 +11,7 @@
     "react-scripts": "1.1.4",
     "react-youtube": "^7.5.0",
     "redux": "^3.7.2",
-    "serve": "^6.5.5"
+    "serve": "^10.1.2"
   },
   "scripts": {
     "start-prod": "NODE_ENV=production npm-run-all -p build && serve -s build",
